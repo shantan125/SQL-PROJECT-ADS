@@ -48,7 +48,7 @@ You can clone this repository and use it as a starting point for your own studen
 
 ## Contributors
 
-- [Your Name](https://github.com/yourusername)
+- [Shantan](https://github.com/shantan125)
 
 ## License
 
